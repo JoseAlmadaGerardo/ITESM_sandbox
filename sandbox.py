@@ -8,14 +8,14 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.write("# Welcome to the Data Science Hub Showroom at Tecnológico de Monterrey! 👋")
+st.write("# Welcome to the Sandbox Page for Tecnológico de Monterrey data science HUB! 👋")
 
-st.sidebar.success("Select a demo above.")
+st.sidebar.success("Select a a empty sandbox to trial apps.")
 
 st.markdown(
-        """This AI showroom showcases various use cases across different industrial applications. It is an open-source app built on the Streamlit framework, this showroom is specifically designed for AI agents utilizing RAG architecture from OpenAI.
+        """This Sandbox page contains differents deploying apps, to be use at our final showroom.
 
-👈 Select a demo from the dropdown on the left to explore examples of what AI assistance can achieve!
+👈 Select a empty Sandbox Page to develope examples of what AI assistance can achieve!
 
         ### Want to learn more about streamlit?
 
